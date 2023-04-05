@@ -1,0 +1,154 @@
+body {
+  background: white;
+}
+
+.name {
+  height: 50px;
+  width: 550px;
+  text-align: center;
+  margin-left: 500px;
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.image {
+  height: 375px;
+  width: 540px;
+  text-align: center;
+  margin-left: 500px;
+}
+
+.image img {
+  height: 100%;
+  width: 100%;
+}
+
+.family {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.family-img {
+  height: 305px;
+  width: 450px;
+  margin-top: 75px;
+  margin-left: 55px;
+  float: left;
+  border-radius: 15px;
+}
+
+.family-img img {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+  margin-left: 75px;
+}
+
+.family-info {
+  height: 305px;
+  width: 845px;
+  margin-top: 75px;
+  margin-left: 55px;
+  margin-right: 50px;
+  float: right;
+  border-radius: 50px;
+}
+
+.message {
+  font-size: medium;
+  font-style: italic;
+  margin-left: 42px;
+  margin-right: 40px;
+  margin-top: 25px;
+}
+
+.song {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.song-info {
+  height: 305px;
+  width: 800px;
+  margin-top: 75px;
+  margin-left: 125px;
+  margin-right: 50px;
+  float: left;
+  border-radius: 50px;
+}
+
+.song-img {
+  height: 305px;
+  width: 450px;
+  margin-top: 75px;
+  margin-left: 55px;
+  float: right;
+  border-radius: 15px;
+  margin-right: 120px;
+}
+
+.song-img img {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.song-title {
+  font-size: 24;
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 45px;
+  margin-top: 10px;
+}
+
+.song-name {
+  font-size: 19px;
+  font-weight: inherit;
+  font-style: oblique;
+  margin-left: 45px;
+  margin-top: 2px;
+}
+
+.last {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.last-part {
+  height: 305px;
+  width: 450px;
+  margin-top: 75px;
+  margin-left: 57px;
+  float: right;
+  border-radius: 15px;
+  margin-right: 38px;
+}
+
+.last-part img {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.last-info {
+  font-size: 22px;
+  font-weight: inherit;
+  font-style: oblique;
+  margin-left: 45px;
+  margin-right: 40px;
+  margin-top: 12px;
+}
+
+.link {
+  color: blue;
+  margin-top: 5px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 25px;
+}
